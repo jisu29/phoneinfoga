@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sundowndev/phoneinfoga/v2/cmd"
+	"github.com/jisu29/phoneinfoga/v2/cmd"
 )
 
 func main() {
