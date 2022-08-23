@@ -24,9 +24,9 @@
 
 <p align="center">
   <a href="https://jisu29.github.io/phoneinfoga/">Documentation</a> •
-  <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/jisu29/phoneinfoga/master/web/docs/swagger.yaml">API documentation</a> •
+  <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/jisu29/phoneinfoga/main/web/docs/swagger.yaml">API documentation</a> •
   <a href="https://demo.phoneinfoga.crvx.fr/">Demo instance</a> •
-  <a href="https://medium.com/@jisu9/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Related blog post</a>
+  <a href="https://medium.com/@jisu29/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Related blog post</a>
 </p>
 
 ![](./docs/images/screenshot.png)
